@@ -1,108 +1,40 @@
-* {
-    border: 1px transparent !important;
+
+body{ 
+ font-weight:300;
 }
 
-* {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -ms-box-sizing: border-box;
-    box-sizing: border-box;
+h1{font-family: 'Open Sans Condensed', sans-serif;
+color: #778899;
+}  
+
+h2{font-family: 'Open Sans Condensed', sans-serif;
+color:#778899;
+} 
+
+h3{font-family: 'Open Sans Condensed', sans-serif;
+color: #F08080;
 }
 
-@media only screen (max-width: 500px) {
-col{display:none ;}
+h4{font-family: 'Open Sans Condensed', sans-serif;
+color: #F08080;
 }
 
-.reading-area {width:100%;height: 100%;overflow: auto;
+p{font-family: 'Cedarville Cursive', cursive;
+color: #7B68EE;
 }
 
-.grid {
-    margin: 0 auto;
-    max-width: 1200px;
-    width: 100%;
+.text-muted{ 
+   color: #778899;
+}
+ .text-thin{ 
+font-weight:100;
+}
+.title-super{ 
+font-size: 60px;
 }
 
-.row {
-    width: 100%;
-    margin-bottom: 20px;
-    display: flex; 
+.title-log{ 
+margin-top: 20px;
 }
 
-.col-1 {
-    width: 8.33%;
-}
-
-.col-2 {
-    width: 16.66%;
-}
-
-.col-3 {
-    width: 25%;
-}
-
-.col-4 {
-    width: 33.33%;
-}
-
-.col-5 {
-    width: 41.66%;
-}
-
-.col-6 {
-    width: 50%;
-}
-
-.col-7 {
-    width: 58.33%;
-}
-
-.col-8 {
-    width: 66.66%;
-}
-
-.col-9 {
-    width: 75%;
-}
-
-.col-10 {
-    width: 83.33%;
-}
-
-.col-11 {
-    width: 91.66%;
-}
-
-.col-12 {
-    width: 100%;
-}
-
-*{font-family: 'League Script', cursive; font-size: 45px; 
-color:white;}
-*body{
-  background: url(http://www.brightonunitedmethodistchurch.com/wp-content/uploads/2013/08/chalkboard-background.jpg);
- }
- 
-header{float: right; font-size: 45px; display:flex;}
-}
-
-.row {
-    width: 100%;
-    margin-bottom: 20px;
-    display: flex;}
-
-h1{background:transparent; float: left; padding: 30px;
-padding-bottom: 95px;}
-
-p1{background:transparent; font-size: 35px; color:#C14E4E;
-float:left; padding:30px;}
-
-h2{ background:transparent; float: right; padding: 30px;
-}
-
-p2{background:transparent; font-size: 35px; float: right;padding:30px;}  
-
-h3{background: transparent;float: center;
-color:white; padding: 30px; padding-bottom: 50px;} 
-
-p3{font-size: 35px; color:#A9E9A9;float: center;padding:30px;}
 
