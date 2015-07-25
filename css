@@ -1,32 +1,48 @@
 body{ 
  font-weight:300;
 }
+
 h1{font-family: 'Open Sans Condensed', sans-serif;
 color: #778899;
 }  
-h2{font-family: 'Open Sans Condensed', sans-serif;
+
+h2 {
+	font-family: "Open Sans Condensed", sans-serif;
 color:#778899;
+
 } 
-h3{font-family: 'Open Sans Condensed', sans-serif;
-color: #F08080;
+
+h3 {
+    font-family: "Open Sans Condensed", sans-serif;
+    color: #f08080;
 }
-h4{font-family: 'Open Sans Condensed', sans-serif;
-color: #F08080;
+
+
+h4 {
+	font-family: "Open Sans Condensed", sans-serif;
+color: #f08080;
+
 }
-p{font-family: 'Cedarville Cursive', cursive;
-color: #7B68EE;
+
+p {
+	font-family: "Cedarville Cursive", cursive;
+color: #7b68ee;
+
 }
+
 .text-muted{ 
    color: #778899;
 }
+
  .text-thin{ 
-font-weight:100;
-}
-.title-super{ 
-font-size: 60px;
-}
-.title-log{ 
-margin-top: 20px;
+   font-weight:100;
 }
 
+.title-super{ 
+   font-size: 60px;
+}
+
+.title-log{ 
+   margin-top: 20px;
+}
 
