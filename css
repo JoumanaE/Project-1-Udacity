@@ -1,14 +1,15 @@
-body{ 
+body { 
  font-weight:300;
 }
 
-h1{font-family: 'Open Sans Condensed', sans-serif;
-color: #778899;
-}  
-
+h1 {
+    font-family: "Open Sans Condensed", sans-serif;
+    color: #778899;
+}
+  
 h2 {
-	font-family: "Open Sans Condensed", sans-serif;
-color:#778899;
+    font-family: "Open Sans Condensed", sans-serif;
+    color: #778899;
 
 } 
 
@@ -19,14 +20,14 @@ h3 {
 
 
 h4 {
-	font-family: "Open Sans Condensed", sans-serif;
-color: #f08080;
+    font-family: "Open Sans Condensed", sans-serif;
+    color: #f08080;
 
 }
 
 p {
-	font-family: "Cedarville Cursive", cursive;
-color: #7b68ee;
+    font-family: "Cedarville Cursive", cursive;
+    color: #7b68ee;
 
 }
 
@@ -45,4 +46,11 @@ color: #7b68ee;
 .title-log{ 
    margin-top: 20px;
 }
+
+
+
+
+ 
+
+
 
